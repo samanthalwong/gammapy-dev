@@ -25,7 +25,8 @@ packages to produce DL3 files (using
 used in Gammapy to produce high-level analysis products. A small sub-set
 of archival Crab nebula data has been publicly released to accompany
 this tutorial, which provides an introduction to VERITAS data analysis
-using gammapy for VERITAS members and external users alike.
+using gammapy for VERITAS members and external users alike. For instructions on how to download VERITAS public data, see `gammapy
+download <https://docs.gammapy.org/dev/getting-started/index.html#quickstart-setup>`__.
 
 This notebook is only intended for use with these publicly released Crab
 nebula files and the use of other sources or datasets may require
